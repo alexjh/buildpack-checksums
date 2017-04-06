@@ -1,0 +1,1 @@
+bfc55f598b56019fd16659f1e04689d94384de90b290ed5d05f89389d6fed2bc  ruby_buildpack-cached-v1.6.36.zip
